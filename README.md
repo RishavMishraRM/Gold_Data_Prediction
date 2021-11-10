@@ -2,3 +2,5 @@
 
 ## One the statistcs  model i made
 ### Statistical Representation of the data of gold prices
+
+Soon updating the Project 
